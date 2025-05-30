@@ -1,4 +1,5 @@
 link:https://sreyachaithu.github.io/TRAFFIC_SIGNALS/
+
 description:
 Red Light: Displays for 6 seconds with the message "STOP!"
 
